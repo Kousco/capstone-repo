@@ -1,0 +1,15 @@
+footer {
+    background-color: #333;
+    color: #edefee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer nav {
+    margin: auto 2rem auto 2rem;
+}

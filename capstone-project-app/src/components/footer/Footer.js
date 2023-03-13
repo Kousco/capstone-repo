@@ -8,8 +8,8 @@ const Footer = () => {
                 <img alt="Little Lemon Logo" />
             </>
             <nav>
+                <h2>Doormat Navigation</h2>
                 <ul>
-                    <p>Doormat Navigation</p>
                     <li><a>Home</a></li>
                     <li><a>About</a></li>
                     <li><a>Menu</a></li>
@@ -19,8 +19,9 @@ const Footer = () => {
                 </ul>
             </nav>
             <nav>
+                <h2>Contact</h2>
                 <ul>
-                    <p>Contact</p>
+
                     <li><a>Address</a></li>
                     <li><a>Phone number</a></li>
                     <li><a>Email</a></li>

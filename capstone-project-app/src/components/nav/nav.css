@@ -7,7 +7,6 @@
 }
 
 .nav-container ul {
-    list-style: none;
     display: flex;
     align-items: center;
 }
@@ -19,5 +18,4 @@
 
 .nav-container ul li a {
     color: #edefee;
-    text-decoration: none;
 }
